@@ -1,0 +1,33 @@
+body{
+    background:rgb(0, 0, 0);
+}
+
+.heading{
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+    color:rgb(197, 103, 21);
+    box-shadow: 5px 5px 5px rgb(1, 31, 1);
+}
+
+.E{
+    font-size: 15px;
+    color:blueviolet;
+    box-shadow:5px 5px 5px rgb(0, 0, 0)
+}
+
+.FooterOfEightySeven{
+    position: fixed;
+    color:blueviolet;
+    background-color: black;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px rgb(62, 0, 101);
+    border: 5px solid black;
+    border-radius: 20px;
+}
